@@ -1,0 +1,2 @@
+# cs-scratch
+GitHub Pages
