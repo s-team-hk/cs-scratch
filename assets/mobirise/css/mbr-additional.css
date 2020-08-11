@@ -1234,6 +1234,35 @@ section.lazy-placeholder:after {
     padding-top: 1.5rem !important;
   }
 }
+.cid-s7mmutD2kq {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #cccccc;
+}
+.cid-s7mmutD2kq .testimonial-text {
+  font-style: italic;
+  font-weight: 300;
+  color: #232323;
+}
+.cid-s7mmutD2kq .mbr-author-name {
+  font-weight: bold;
+  color: #232323;
+}
+.cid-s7mmutD2kq .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
+}
+@media (max-width: 991px) {
+  .cid-s7mmutD2kq .mbr-figure,
+  .cid-s7mmutD2kq img {
+    max-height: 300px;
+    width: auto;
+    margin: auto;
+  }
+  .cid-s7mmutD2kq .media-content {
+    padding-top: 1.5rem !important;
+  }
+}
 .cid-s7gPdIjB6o {
   padding-top: 30px;
   padding-bottom: 30px;
